@@ -12,6 +12,7 @@ server.*
 .class
 .springBeans
 .settings/
+.astro/
 .history/
 target/
 logs/
